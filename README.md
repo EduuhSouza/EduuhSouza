@@ -1,6 +1,6 @@
 <img align="left" width="370px" height="420" src="https://github.com/EduuhSouza/EduuhSouza/assets/146948069/53600c80-5183-400a-a142-9cdbf26bd999">
 
-## Olá, mundo! Estou fazendo um curso de Programação Web Full-Stack no IOS
+## "Sonhos exigem paciência no resultado e dedicação no processo"
 
 ## Tecnologias que estou aprendendo:
 
@@ -24,13 +24,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  👾 Programação Web 👾
+Gosto de design e ilustrações✍🏼
+Amo aprender coisas novas e inovadoras, gosto de pintar e desenhar. 
+Sou estudante, porém logo irei terminar o Ensino Médio e ingressar no mercado de trabalho.
+ <br>
+ 🔥🏳️‍🌈"os dias difíceis são a forma mais rápida de aprendermos a apreciar os bons"🔥🏳️‍🌈
 </p>
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+  🦄 Objetivo: Crescer pessoalmente e Profissionalmente.
 </p>
 
 <p align="left">
