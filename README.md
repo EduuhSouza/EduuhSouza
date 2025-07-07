@@ -26,10 +26,9 @@
 <p align="left"> 
   👾 Programação Web 👾
 Gosto de design e ilustrações✍🏼
-Amo aprender coisas novas e inovadoras, gosto de pintar e desenhar. 
-Sou estudante, porém logo irei terminar o Ensino Médio e ingressar no mercado de trabalho.
+Amo aprender coisas novas e inovadoras.
  <br>
- 🔥🏳️‍🌈"os dias difíceis são a forma mais rápida de aprendermos a apreciar os bons"🔥🏳️‍🌈
+ "os dias difíceis são a forma mais rápida de aprendermos a apreciar os bons"🔥
 </p>
 
 <p align="left">
